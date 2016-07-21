@@ -2,6 +2,11 @@
 
 Fork from [https://github.com/mxstbr/hyperterm-spacegray](https://github.com/mxstbr/hyperterm-spacegray)
 
+
+![Spacegray Eighties](https://cloud.githubusercontent.com/assets/8714775/17012308/daf429e6-4f16-11e6-92f1-ce586e965018.png)
+
+
+
 Contributions appreciated!
 
 ## Installation
