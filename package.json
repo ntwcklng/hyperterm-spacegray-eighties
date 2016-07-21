@@ -1,0 +1,25 @@
+{
+  "name": "hyperterm-spacegray-eighties",
+  "version": "0.0.1",
+  "description": "Spacegray Eighties Theme for HyperTerm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntwcklng/hyperterm-spacegray-eighties.git"
+  },
+  "keywords": [
+    "spacegray",
+    "eighties",
+    "hyperterm",
+    "theme"
+  ],
+  "author": "Marvin Mieth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntwcklng/hyperterm-spacegray-eighties/issues"
+  },
+  "homepage": "https://github.com/ntwcklng/hyperterm-spacegray-eighties#readme"
+}
