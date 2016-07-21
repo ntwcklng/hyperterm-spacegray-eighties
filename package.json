@@ -16,7 +16,7 @@
     "hyperterm",
     "theme"
   ],
-  "author": "Marvin Mieth",
+  "author": "Marvin Mieth <ntwcklng@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ntwcklng/hyperterm-spacegray-eighties/issues"
