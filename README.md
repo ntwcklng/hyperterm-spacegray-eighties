@@ -3,7 +3,7 @@
 Fork from [https://github.com/mxstbr/hyperterm-spacegray](https://github.com/mxstbr/hyperterm-spacegray)
 
 
-![Spacegray Eighties](https://cloud.githubusercontent.com/assets/8714775/17012308/daf429e6-4f16-11e6-92f1-ce586e965018.png)
+![Spacegray Eighties](https://cloud.githubusercontent.com/assets/8714775/17070370/c8c904c6-505b-11e6-94cd-54946a7c0aee.png)
 
 
 
