@@ -1,4 +1,5 @@
 # `hyperterm-spacegray-eighties`
+A theme for the [HyperTerm](https://github.com/zeit/hyperterm) terminal.
 
 Fork from [https://github.com/mxstbr/hyperterm-spacegray](https://github.com/mxstbr/hyperterm-spacegray)
 
