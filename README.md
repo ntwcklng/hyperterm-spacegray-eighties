@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Please use [https://github.com/ntwcklng/hyper-spacegray-eighties](hyper-spacegray-eighties) instead.
+
 # `hyperterm-spacegray-eighties`
 A theme for the [HyperTerm](https://github.com/zeit/hyperterm) terminal.
 
